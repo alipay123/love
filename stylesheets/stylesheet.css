@@ -232,7 +232,8 @@ a {
   border-top: solid 1px #eff0f1; }
   
   .site-footer2 {
-  padding: 2rem;}
+  padding-left: 2rem;
+  padding-right: 2rem;}
 
 .site-footer-owner {
   display: block;
