@@ -112,7 +112,7 @@ a {
   max-width: 100%; }
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
   margin-top: 2rem;
-  margin-bottom: 1rem;
+  margin: 1rem;
   font-weight: normal;
   color: #159957; 
     width: 100%;
@@ -230,6 +230,9 @@ a {
   padding-top: 2rem;
   margin-top: 2rem;
   border-top: solid 1px #eff0f1; }
+  
+  .site-footer2 {
+  padding: 2rem;}
 
 .site-footer-owner {
   display: block;
