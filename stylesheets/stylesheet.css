@@ -114,8 +114,11 @@ a {
   margin-top: 2rem;
   margin-bottom: 1rem;
   font-weight: normal;
-  color: #159957; }
+  color: #159957; 
+    width: 100%;
+}
 .main-content p {
+    width: 100%;
   margin: 12em;
 }
 .main-content code {
